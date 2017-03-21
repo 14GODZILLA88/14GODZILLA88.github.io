@@ -1,0 +1,511 @@
+body {
+	padding: 0px;
+	margin: 0px;
+	font-family: Arial;
+	font-size: 17px;
+}
+
+#first {
+	background: url(../images/chapka2.jpg) no-repeat center top;
+	
+	height: 1810px;
+}
+
+article {
+	width: 1170px;
+	margin: -40px auto 0px auto;
+	
+}
+
+h1 {
+	font-size: 39px;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+	padding: 0px 0px 55px 0px;
+	color:white;
+}
+
+
+.cta {
+background: #d40428 none repeat scroll 0% 0%;
+color: #FFF;
+font-size: 18px;
+font-weight: bold;
+border-radius: 30px;
+padding: 20px 30px;
+text-decoration: none;
+margin: 60px auto 0px;
+display: block;
+text-align: center;
+width: 250px;
+margin-left: 430px;
+margin-top: 410px;
+
+}
+
+.cta:hover {
+	background: #b00624;
+	color: #fff;
+}
+
+
+.tittlee {
+	font-size: 25px;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+	padding: 135px 0px 62px 0px;
+	color:#fff;
+}
+
+
+.icons {
+	margin: 23px 0px 10px 0px;
+	
+}
+
+.prais {
+	
+color: #FFF;
+font-size: 18px;
+font-weight: bold;
+border-radius: 20px;
+padding: 10px 10px;
+text-decoration: none;
+margin: 45px auto 0px;
+display: block;
+text-align: center;
+width: 250px;
+border: 2px solid;
+margin-top: 20px;
+}
+.prais:hover {
+	background: #d40428;
+	color: #fff;
+}
+
+
+
+.klass {
+background: url(../images/mas1.jpg) no-repeat center top;
+color: #FFF;
+font-size: 20px;
+font-weight: bold;
+border-radius: 40px;
+padding: 38px 35px;
+text-decoration: none;
+margin: 1px auto 0px;
+float: left;
+border: 0px solid;
+text-align: center;
+width: 250px;
+margin-left: 49px;
+margin-top: 25px;
+}
+.klass:hover {
+	background: url(../images/1.jpg) no-repeat center top;
+	color: #fff;
+}
+
+.relax {
+background: url(../images/mas2.jpg) no-repeat center top;
+color: #FFF;
+font-size: 20px;
+font-weight: bold;
+border-radius: 40px;
+padding: 38px 35px;
+text-decoration: none;
+margin: 1px auto 0px;
+float: left;
+border: 0px solid;
+text-align: center;
+width: 250px;
+margin-left: 49px;
+margin-top: 25px;
+}
+.relax:hover {
+	background: url(../images/2.jpg) no-repeat center top;
+	color: #fff;
+}
+
+.egypt {
+background: url(../images/mas3.jpg) no-repeat center top;
+color: #FFF;
+font-size: 20px;
+font-weight: bold;
+border-radius: 40px;
+padding: 38px 35px;
+text-decoration: none;
+margin: 1px auto 0px;
+float: left;
+border: 0px solid;
+text-align: center;
+width: 250px;
+margin-left: 49px;
+margin-top: 25px;
+}
+.egypt:hover {
+	background: url(../images/3.jpg) no-repeat center top;
+	color: #fff;
+}
+
+
+.antistr {
+background: url(../images/mas4.jpg) no-repeat center top;
+color: #FFF;
+font-size: 20px;
+font-weight: bold;
+border-radius: 40px;
+padding: 38px 35px;
+text-decoration: none;
+margin: 1px auto 0px;
+float: left;
+border: 0px solid;
+text-align: center;
+width: 250px;
+margin-left: 49px;
+margin-top: 25px;
+}
+.antistr:hover {
+	background: url(../images/4.jpg) no-repeat center top;
+	color: #fff;
+}
+
+.imper {
+background: url(../images/mas5.jpg) no-repeat center top;
+color: #FFF;
+font-size: 20px;
+font-weight: bold;
+border-radius: 40px;
+padding: 38px 35px;
+text-decoration: none;
+margin: 1px auto 0px;
+float: left;
+border: 0px solid;
+text-align: center;
+width: 250px;
+margin-left: 49px;
+margin-top: 25px;
+}
+.imper:hover {
+	background: url(../images/5.jpg) no-repeat center top;
+	color: #fff;
+}
+
+.aroma {
+background: url(../images/mas6.jpg) no-repeat center top;
+color: #FFF;
+font-size: 20px;
+font-weight: bold;
+border-radius: 40px;
+padding: 38px 35px;
+text-decoration: none;
+margin: 1px auto 0px;
+float: left;
+border: 0px solid;
+text-align: center;
+width: 250px;
+margin-left: 49px;
+margin-top: 25px;
+}
+.aroma:hover {
+	background: url(../images/6.jpg) no-repeat center top;
+	color: #fff;
+}
+
+
+.ideal {
+background: url(../images/mas7.jpg) no-repeat center top;
+color: #FFF;
+font-size: 20px;
+font-weight: bold;
+border-radius: 40px;
+padding: 38px 35px;
+text-decoration: none;
+margin: 1px auto 0px;
+float: left;
+border: 0px solid;
+text-align: center;
+width: 250px;
+margin-left: 49px;
+margin-top: 25px;
+}
+.ideal:hover {
+	background: url(../images/7.jpg) no-repeat center top;
+	color: #fff;
+}
+
+.lipolit {
+background: url(../images/mas8.jpg) no-repeat center top;
+color: #FFF;
+font-size: 20px;
+font-weight: bold;
+border-radius: 40px;
+padding: 38px 35px;
+text-decoration: none;
+margin: 1px auto 0px;
+float: left;
+border: 0px solid;
+text-align: center;
+width: 250px;
+margin-left: 49px;
+margin-top: 25px;
+}
+.lipolit:hover {
+	background: url(../images/8.jpg) no-repeat center top;
+	color: #fff;
+}
+
+.kamni {
+background: url(../images/mas9.jpg) no-repeat center top;
+color: #FFF;
+font-size: 20px;
+font-weight: bold;
+border-radius: 40px;
+padding: 38px 35px;
+text-decoration: none;
+margin: 1px auto 0px;
+float: left;
+border: 0px solid;
+text-align: center;
+width: 250px;
+margin-left: 49px;
+margin-top: 25px;
+}
+.kamni:hover {
+	background: url(../images/9.jpg) no-repeat center top;
+	color: #fff;
+}
+
+
+.sport {
+background: url(../images/mas10.jpg) no-repeat center top;
+color: #FFF;
+font-size: 20px;
+font-weight: bold;
+border-radius: 40px;
+padding: 38px 35px;
+text-decoration: none;
+margin: 1px auto 0px;
+float: left;
+border: 0px solid;
+text-align: center;
+width: 250px;
+margin-left: 49px;
+margin-top: 25px;
+}
+
+.sport:hover {
+	background: url(../images/10.jpg) no-repeat center top;
+	color: #fff;
+}
+
+.beremen{
+background: url(../images/mas11.jpg) no-repeat center top;
+color: #FFF;
+font-size: 20px;
+font-weight: bold;
+border-radius: 40px;
+padding: 38px 35px;
+text-decoration: none;
+margin: 1px auto 0px;
+float: left;
+border: 0px solid;
+text-align: center;
+width: 250px;
+margin-left: 49px;
+margin-top: 25px;
+}
+
+.beremen:hover {
+	background: url(../images/11.jpg) no-repeat center top;
+	color: #fff;
+}
+
+
+.tayski {
+background: url(../images/mas12.jpg) no-repeat center top;
+color: #FFF;
+font-size: 20px;
+font-weight: bold;
+border-radius: 40px;
+padding: 38px 35px;
+text-decoration: none;
+margin: 1px auto 0px;
+float: left;
+border: 0px solid;
+text-align: center;
+width: 250px;
+margin-left: 49px;
+margin-top: 25px;
+}
+
+.tayski:hover {
+	background: url(../images/12.jpg) no-repeat center top;
+	color: #fff;
+}
+
+.nogi {
+background: url(../images/mas13.jpg) no-repeat center top;
+color: #FFF;
+font-size: 20px;
+font-weight: bold;
+border-radius: 40px;
+padding: 38px 35px;
+text-decoration: none;
+margin: 1px auto 0px;
+float: left;
+border: 0px solid;
+text-align: center;
+width: 250px;
+margin-left: 418px;
+margin-top: 25px;
+}
+
+.nogi:hover {
+	background: url(../images/13.jpg) no-repeat center top;
+	color: #fff;
+}
+
+.tittleee {
+	color: #d40428;
+	-webkit-text-stroke: 1px black;
+	font-size: 25px;
+	font-weight: normal;
+	font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
+	float: left;
+	width: 250px;
+	margin-left: 455px;
+	margin-top: 30px;
+
+}
+
+
+
+
+
+
+
+
+.saunavozd {
+background: url(../images/mas14.jpg) no-repeat center top;
+color: #FFF;
+font-size: 20px;
+font-weight: bold;
+border-radius: 40px;
+padding: 38px 35px;
+text-decoration: none;
+margin: 1px auto 0px;
+float: left;
+border: 0px solid;
+text-align: center;
+width: 250px;
+margin-left: 80px;
+margin-top: 80px;
+}
+
+.saunavozd:hover {
+	background: url(../images/14.jpg) no-repeat center top;
+	color: #fff;
+}
+
+.saunapolz{
+background: url(../images/mas15.jpg) no-repeat center top;
+color: #FFF;
+font-size: 20px;
+font-weight: bold;
+border-radius: 40px;
+padding: 38px 35px;
+text-decoration: none;
+margin: 1px auto 0px;
+float: left;
+border: 0px solid;
+text-align: center;
+width: 250px;
+margin-left: 49px;
+margin-top: -99px;
+}
+
+.saunapolz:hover {
+	background: url(../images/15.jpg) no-repeat center top;
+	color: #fff;
+}
+
+
+.bochka {
+background: url(../images/mas16.jpg) no-repeat center top;
+color: #FFF;
+font-size: 20px;
+font-weight: bold;
+border-radius: 40px;
+padding: 38px 35px;
+text-decoration: none;
+margin: 1px auto 0px;
+float: left;
+border: 0px solid;
+text-align: center;
+width: 250px;
+margin-left: 418px;
+margin-top: -99px;
+}
+
+.bochka:hover {
+	background: url(../images/16.jpg) no-repeat center top;
+	color: #fff;
+}
+
+
+.sert {
+background: url(../images/mas17.jpg) no-repeat center top;
+color: #FFF;
+font-size: 18px;
+font-weight: bold;
+border-radius: 40px;
+padding: 38px 35px;
+text-decoration: none;
+margin: 1px auto 0px;
+float: left;
+border: 0px solid;
+text-align: center;
+width: 250px;
+margin-left: 418px;
+margin-top: 25px;
+}
+
+.sert:hover {
+	background: url(../images/17.jpg) no-repeat center top;
+	color: #fff;
+}
+
+
+#third {
+	
+	color: #fff;
+	margin-top: 70px;
+}
+
+
+.clear {
+	clear: both;
+}
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
